@@ -9,6 +9,7 @@ public class Static {
 		// TODO Auto-generated method stub
 		try
 		{
+			logi(25);
 			logi(10);
 			logi(5);
 			logi(2);
